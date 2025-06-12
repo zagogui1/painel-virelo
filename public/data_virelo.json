@@ -1,0 +1,102 @@
+{
+  "summary": {
+    "total": -8275.34,
+    "categories": [
+      {
+        "name": "Alimentação",
+        "value": 2400.5
+      },
+      {
+        "name": "Transporte",
+        "value": 1650.0
+      },
+      {
+        "name": "Educação",
+        "value": 890.0
+      },
+      {
+        "name": "Lazer",
+        "value": 500.0
+      },
+      {
+        "name": "Casa",
+        "value": 2834.84
+      }
+    ]
+  },
+  "transactions": [
+    {
+      "descricao": "Supermercado Zaffari",
+      "valor": 785.3,
+      "categoria": "Alimentação",
+      "status": "Pago"
+    },
+    {
+      "descricao": "Assinatura Netflix",
+      "valor": 39.9,
+      "categoria": "Lazer",
+      "status": "Pago"
+    },
+    {
+      "descricao": "Aluguel",
+      "valor": 2200.0,
+      "categoria": "Casa",
+      "status": "A Pagar"
+    },
+    {
+      "descricao": "Gasolina",
+      "valor": 360.0,
+      "categoria": "Transporte",
+      "status": "Pago"
+    },
+    {
+      "descricao": "Mensalidade Escola Filho",
+      "valor": 890.0,
+      "categoria": "Educação",
+      "status": "Pago"
+    }
+  ],
+  "usuarios": {
+    "Guilherme (5511942885750)": {
+      "tipo": "Titular",
+      "total": -5075.34,
+      "ganhos": 6000.0,
+      "gastos": 11075.34,
+      "membros": {
+        "Ana Carolina (553591132120)": {
+          "total": -3200.0,
+          "ganhos": 1500.0,
+          "gastos": 4700.0,
+          "gastos_detalhados": [
+            {
+              "descricao": "Farmácia",
+              "valor": 230.0,
+              "categoria": "Saúde"
+            },
+            {
+              "descricao": "Presente Dia das Mães",
+              "valor": 170.0,
+              "categoria": "Lazer"
+            },
+            {
+              "descricao": "Uber",
+              "valor": 340.0,
+              "categoria": "Transporte"
+            },
+            {
+              "descricao": "Roupas",
+              "valor": 300.0,
+              "categoria": "Vestuário"
+            },
+            {
+              "descricao": "Mercado",
+              "valor": 3960.0,
+              "categoria": "Alimentação"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "atualizado_em": "2025-06-12T12:22:25.688869"
+}
