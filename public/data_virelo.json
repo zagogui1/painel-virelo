@@ -1,96 +1,102 @@
 {
   "summary": {
-    "total": -8275.34,
+    "total": -4273.91,
     "categories": [
       {
         "name": "Alimentação",
-        "value": 2400.5
+        "value": 1340.0
       },
       {
         "name": "Transporte",
-        "value": 1650.0
+        "value": 980.5
       },
       {
         "name": "Educação",
-        "value": 890.0
+        "value": 620.0
       },
       {
         "name": "Lazer",
-        "value": 500.0
+        "value": 400.0
       },
       {
         "name": "Casa",
-        "value": 2834.84
+        "value": 933.41
       }
     ]
   },
   "transactions": [
     {
-      "descricao": "Supermercado Zaffari",
-      "valor": 785.3,
+      "descricao": "Compras no mercado",
+      "valor": 450.0,
       "categoria": "Alimentação",
       "status": "Pago"
     },
     {
-      "descricao": "Assinatura Netflix",
-      "valor": 39.9,
-      "categoria": "Lazer",
-      "status": "Pago"
-    },
-    {
-      "descricao": "Aluguel",
-      "valor": 2200.0,
-      "categoria": "Casa",
-      "status": "A Pagar"
-    },
-    {
-      "descricao": "Gasolina",
-      "valor": 360.0,
+      "descricao": "Uber para reunião",
+      "valor": 75.5,
       "categoria": "Transporte",
       "status": "Pago"
     },
     {
-      "descricao": "Mensalidade Escola Filho",
-      "valor": 890.0,
+      "descricao": "Assinatura Amazon",
+      "valor": 19.9,
+      "categoria": "Lazer",
+      "status": "Pago"
+    },
+    {
+      "descricao": "Mensalidade da escola",
+      "valor": 620.0,
       "categoria": "Educação",
+      "status": "A Pagar"
+    },
+    {
+      "descricao": "Condomínio",
+      "valor": 933.41,
+      "categoria": "Casa",
+      "status": "A Pagar"
+    },
+    {
+      "descricao": "Padaria",
+      "valor": 110.0,
+      "categoria": "Alimentação",
       "status": "Pago"
     }
   ],
   "usuarios": {
     "Guilherme (5511942885750)": {
       "tipo": "Titular",
-      "total": -5075.34,
-      "ganhos": 6000.0,
-      "gastos": 11075.34,
+      "total": -2773.91,
+      "ganhos": 5000.0,
+      "gastos": 7773.91,
       "membros": {
         "Ana Carolina (553591132120)": {
-          "total": -3200.0,
-          "ganhos": 1500.0,
-          "gastos": 4700.0,
+          "total": -1500.0,
+          "ganhos": 2000.0,
+          "gastos": 3500.0,
           "gastos_detalhados": [
             {
               "descricao": "Farmácia",
-              "valor": 230.0,
+              "valor": 150.0,
               "categoria": "Saúde"
             },
             {
-              "descricao": "Presente Dia das Mães",
-              "valor": 170.0,
+              "descricao": "Cinema",
+              "valor": 70.0,
               "categoria": "Lazer"
             },
             {
               "descricao": "Uber",
-              "valor": 340.0,
+              "valor": 160.0,
               "categoria": "Transporte"
             },
             {
               "descricao": "Roupas",
-              "valor": 300.0,
+              "valor": 400.0,
               "categoria": "Vestuário"
             },
             {
               "descricao": "Mercado",
-              "valor": 3960.0,
+              "valor": 2720.0,
               "categoria": "Alimentação"
             }
           ]
@@ -98,5 +104,5 @@
       }
     }
   },
-  "atualizado_em": "2025-06-12T12:22:25.688869"
+  "atualizado_em": "2025-06-12T12:44:25.452943"
 }
